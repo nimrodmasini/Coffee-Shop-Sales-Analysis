@@ -36,8 +36,8 @@ The dataset was sourced from Maven Analytics – Coffee Shop Sales. It contains 
 
 ```excel
 Revenue = unit_price * transaction_qty
-Total Transactions = COUNTA(UNIQUE([transaction_id]))
-Total Quantity Sold = SUM([transaction_qty])
+Total Transactions = COUNTA(UNIQUE(transaction_id))
+Total Quantity Sold = SUM(transaction_qty)
 Average Transaction Value = SUM(Revenue) / [Total Transactions]
 ```
 
