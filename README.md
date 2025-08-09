@@ -6,7 +6,9 @@ An interactive dashboard analyzing sales trends, product performance, and store 
 ---
 
 ## Project Description
+
 **Project Purpose:**
+
 The Coffee Shop Sales Analysis Dashboard was created to help store managers and business owners monitor sales performance, customer preferences, and seasonal trends. By analyzing daily transaction data, the dashboard provides actionable insights to identify peak sales periods, understand product category performance, optimize staffing and inventory decisions and improve profitability through targeted promotions.
 
 **Technologies Used:**
@@ -19,6 +21,7 @@ The Coffee Shop Sales Analysis Dashboard was created to help store managers and 
 ## Data and Processing
 
 **Data Source:**
+
 The dataset was sourced from Maven Analytics – Coffee Shop Sales. It contains point-of-sale transaction data from a fictional coffee shop chain, including Transaction details, Product details and Sales metrics. The data covers a 6-month period and is designed to simulate real-world coffee shop sales patterns.
 
 **Data Cleaning:**
@@ -44,7 +47,7 @@ Average Transaction Value = SUM(Revenue) / [Total Transactions]
 --- 
 
 ## Key Insights
-- **Revenue Trend** - Sales rose steadily from January (~$26K) to May (~$51K) before slowing slightly in June.
+- **Revenue Trend** - Sales rose steadily from January to May before slowing slightly in June.
 - **Top Days** - Monday records the highest transactions. Sunday has the lowest.
 - **Peak Hours** - 8 AM to 10 AM see the highest activity, showing strong morning demand.
 - **Product Category Leaders** - Coffee and Tea dominate transactions, with Bakery items ranking third.
